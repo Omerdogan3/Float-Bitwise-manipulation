@@ -1,6 +1,6 @@
 To exercise integer bitwise manipulation by looking at the sign, exponent and mantissa fields of IEEE floating point numbers.
 
-									This program:
+							This program:
 
 (1)Separates a floating point number into bit fields, and from those determine its:
 sign (either -1 or +1) with getSign()
